@@ -5,7 +5,7 @@ My LY project web interface
 ### Quickstart
 -----------
 ```bash
-$ npm install
+$ yarn install
 
 $ npm run start
 ```
